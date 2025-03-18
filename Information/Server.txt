@@ -1,0 +1,4 @@
+HostName: srv217814036.host
+IP address: 212.224.93.228
+userName: root
+Pwd: FeGLGjBP7K
